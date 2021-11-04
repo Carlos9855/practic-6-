@@ -11,27 +11,18 @@
         {
             "nombre": "daniel",
             "nacionalidad": "I",
-            "num_charlas": 2,
+            "num_charlas": 1,
             "area": "SI",
             "dias_disponibles": ["L"],
-            "horas_disponibles": [2, 4]
+            "horas_disponibles": [3]
         },
         {
             "nombre": "Mario",
             "nacionalidad": "N",
             "num_charlas": 3,
-            "area": "SI",
+            "area": "IS",
             "dias_disponibles": ["L"],
-            "horas_disponibles": [1, 5]
-        },
-       
-        {
-            "nombre": "Ana",
-            "nacionalidad": "N",
-            "num_charlas": 3,
-            "area": "IA",
-            "dias_disponibles": ["L"],
-            "horas_disponibles": [1, 2, 5]
+            "horas_disponibles": [1]
         }
     ]
 }

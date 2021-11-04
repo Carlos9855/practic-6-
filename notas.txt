@@ -1,0 +1,18 @@
+
+        {
+            "nombre": "Mario",
+            "nacionalidad": "N",
+            "num_charlas": 3,
+            "area": "SI",
+            "dias_disponibles": ["L"],
+            "horas_disponibles": [1, 5]
+        },
+       
+        {
+            "nombre": "Ana",
+            "nacionalidad": "N",
+            "num_charlas": 3,
+            "area": "IA",
+            "dias_disponibles": ["L"],
+            "horas_disponibles": [1, 3]
+        }
