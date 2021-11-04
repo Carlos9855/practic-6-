@@ -61,10 +61,16 @@ Graphical view of the solution.
 ![2021-11-03_23h43_19](https://user-images.githubusercontent.com/73244043/140254474-7a219818-5631-4143-b7a7-0293661547ab.png)
 
 
- ### Forward checking 
-
- ### Minimum remaining values algorithm
-
- ### Least Constrained value
-
  ### Running the program
+ 
+ To run the program, first you have to go to the folder where the project is located and open a console which is pointing to the address where the project is hosted and then you have to enter the command **"python main.py"** in the terminal
+ 
+## Bibliography
+
+Class slides
+
+Arc-Consistensy PDF
+
+https://www.analyticslane.com/2018/07/16/archivos-json-con-python/
+
+https://medium.com/swlh/how-to-solve-constraint-satisfaction-problems-csps-with-ac-3-algorithm-in-python-f7a9be538cfe
