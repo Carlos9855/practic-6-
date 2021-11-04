@@ -8,7 +8,16 @@ The schedule for the talks is Monday through Friday from 9 a.m. to 12 p.m. and f
 ## Propose the problem as a CSP
 
 ## Implementation
+For this particular problem we first established what our variables were going to be:
 
+- **Nodes** were defined as the rooms available at each available time, in this case we have three rooms available at each time slot.
+- **Constrains** are the connection of a room to its adjacent rooms. 
+- **Domain** is a list of the talks to be given in a specific room and for this we have some limitations.
+  - A speaker can have 5 talks in the same area but they can not give 2 talks in a row.
+  - Two speakers of the same area will not have assigned one same hour for their talks.
+  - Two international guests should not have a talk at the same hour.
+  
+ 
  ## Experiments
 
  ### Forward checking 
